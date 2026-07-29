@@ -502,7 +502,7 @@ Food[13]\nOffice Supplies[14]""")
         self.current_user = self.prompt_login()
 
         while True:
-            print("\nGoodwill Inventory Prototype System:")
+            print("\n Inventory Management System:")
             print("1. Print all items")
             print("2. Add a new item")
             print("3. Search by ID")
