@@ -14,7 +14,7 @@ Python 3.x is a requirement, along with standard Python libraries including.
 - sys
 - getpass
 
-To run, clone/download the repository and run the main script.
+To run, clone/download the repository and run the main (control_panel.py) script. Don't worry about creating a database, the progarm does it by default.
 Default login credentials are:
 - makoto: burnmydread
 - yu: pursuingmytrueself
