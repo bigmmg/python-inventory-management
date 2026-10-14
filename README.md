@@ -1,3 +1,5 @@
+# Python Inventory Management
+
 A lightweight, command line interface based application built in Python using SQLite3 as the database. It allows users of any small company to manage inventories, log and make changes, track updates, and export to CSV files. Created for an internship at Goodwill, but open source for anyone who needs to use it.
 
 Features include:
